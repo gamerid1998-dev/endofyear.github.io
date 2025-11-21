@@ -1,0 +1,67 @@
+/*
+  ==========================================
+  Custom Styling v0.1
+  ==========================================
+*/
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: rgb(35, 39, 65);
+  background-image: -webkit-linear-gradient(92deg,#e2aac1,#fee1ed);
+  color: #ffffff;
+  text-shadow: 2px 2px 6px #f398d5;
+  font-family: 'Dancing Script', cursive;
+}
+
+.particles-js-canvas-el {
+  position: absolute;
+  z-index: -50000;
+  top: 0;
+  left: 0;
+}
+
+.btn-pill {
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.btn-outline-pink {
+  color: #ffffff;
+  border-color: #ffffff;
+  background-color: transparent;
+  text-shadow: 2px 2px 6px #f398d5;
+}
+
+.btn-outline-pink:hover {
+  color: #e2aac1;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+
+.btn.btn-outline-pink.focus, .btn.btn-outline-pink:focus {
+  outline: 0;
+  box-shadow: 0 0 0 .2rem rgba(248, 150, 216, 0.4);
+}
+
+.color {
+  color: #f35626;
+  background-image: -webkit-linear-gradient(92deg,#f35626,#feab3a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: hue 60s infinite linear;
+}
+
+@-webkit-keyframes hue {
+  from {
+    -webkit-filter: hue-rotate(0deg);
+  }
+
+  to {
+    -webkit-filter: hue-rotate(-360deg);
+  }
+}
