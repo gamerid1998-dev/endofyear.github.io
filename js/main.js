@@ -33,11 +33,11 @@ let messagesArray = [
   'Tumhari sari wins, choti hon ya bari sab tumhare sath celebrate kr k tumhe hamesha hyped rakhna chahta hun.',
   'Tumhari awaz sunta hun to bs ushi ko suntay rehne ka dil karta ha. K bs tum bolti raho aur mai sunta rahun. Tumhari awaz mai ek energy ha jiska mai dewana hun.',
   'Tumhara subtle sarcasm aur dry humor. Yehi chezen tumhe sab se alag banati hain.',
-  'November 27',
+  'When Ajay Devgn said "Pehli bar kisi ki choo chaa choo chaa pasand ai" mujhy sirf tum hi yaad ai',
   'November 28',
   'Tumharay sath time itni jaldi guzar jata ha. Kash mai time rok sakta aur tumharay sath ko aur enjoy kr sakta. 2hrs ki call kis tarha mins mai khatam hoti ha pata hi nahi chalta.',
   'Meri har seedhi baat pr tumhare ulta jawabo ne mujhy kis tarha tumhara addict bana diya ha k bs tumhari kahi baatein dimag se nikalti hi nahi.',
-  'When Ajay Devgn said "Pehli bar kisi ki choo chaa choo chaa pasand ai" mujhy sirf tum hi yaad ai',
+  'December 01',
   'December 02',
   'December 03 - met first time',
   'December 04',
@@ -95,3 +95,4 @@ function showMessage() {
     document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
   }
 }
+
