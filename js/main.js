@@ -47,25 +47,25 @@ let messagesArray = [
   'December 08',
   'December 09',
   'December 10',
-  'December 11',
+  'Aj bhi jab tumhari notification daikhta hun to dil ki dharkan tez ho jati ha, khud ko roka nahi jata k message check karun aur jawab dun. Chahay kitna hi busy kiyu na hun.',
   'December 12',
   'December 13',
   'December 14',
   'December 15',
-  'December 16',
+  'Calls pr tumhari awaz mai excitement, 3hr call ka yun mins mai khatam ho jana. Aur phir mai wohi call sara din soch k muskurata rahun, you have so much power over me.',
   'December 17',
   'December 18',
   'December 19',
   'December 20',
   'December 21',
-  'December 22',
+  'Aj bhi tumhari snap ki notification mujhy bechain kr deti ha. Dil mai ek umeed si hoti ha k selfie ho. Tumhe daikh k dil kahan bharta ha, jitni bar daikhun wohi excitement hoti ha jesi pehli bar daikh k hui thi.',
   'December 23',
   'December 24',
   'December 25',
   'December 26',
   'December 27',
   'December 28',
-  'December 29',
+  'Mere phone mai har chez mute pr ha except for your notification. I like seeing your name on my phone.',
   'December 30',
   'December 31',
   'January 01 - New year',
@@ -95,5 +95,6 @@ function showMessage() {
     document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
   }
 }
+
 
 
