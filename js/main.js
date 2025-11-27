@@ -34,12 +34,12 @@ let messagesArray = [
   'Tumhari awaz sunta hun to bs ushi ko suntay rehne ka dil karta ha. K bs tum bolti raho aur mai sunta rahun. Tumhari awaz mai ek energy ha jiska mai dewana hun.',
   'Tumhara subtle sarcasm aur dry humor. Yehi chezen tumhe sab se alag banati hain.',
   'When Ajay Devgn said "Pehli bar kisi ki choo chaa choo chaa pasand ai" mujhy sirf tum hi yaad ai',
-  'November 28',
+  'Jab tum "pata ha kia hua" bolti ho mera dil to wahen phigal jata ha.',
   'Tumharay sath time itni jaldi guzar jata ha. Kash mai time rok sakta aur tumharay sath ko aur enjoy kr sakta. 2hrs ki call kis tarha mins mai khatam hoti ha pata hi nahi chalta.',
   'Meri har seedhi baat pr tumhare ulta jawabo ne mujhy kis tarha tumhara addict bana diya ha k bs tumhari kahi baatein dimag se nikalti hi nahi.',
-  'December 01',
-  'December 02',
-  'December 03 - met first time',
+  'Tumhari creativity ka mai dewana hun, bs kuch jhalak hi dikhai hain tumne lekin it keeps making me want to see more. I hate how you keep it hidden from me.',
+  'Tumhari dedication to face every issue head first, by yourself shows k tum kitni determined aur strong ho. I love it and hate it at the same time.',
+  'Abhi to milay thay aur itni jaldi ek saal bhi guzar gaya. Waqt bohat jaldi guzar raha ha, kuch dair ko tham jaye aur tum mere pas ruk jao. I want this moment to last forever.',
   'December 04',
   'December 05',
   'Kese bataun k tumsa koi nahi. Jitna bhi daikhun dil bharta nahi. Aur daikhne ki talab hatti nahi. Lekin tum meri sunti bhi to nahi.',
@@ -95,4 +95,5 @@ function showMessage() {
     document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
   }
 }
+
 
