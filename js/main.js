@@ -40,8 +40,8 @@ let messagesArray = [
   'Tumhari creativity ka mai dewana hun, bs kuch jhalak hi dikhai hain tumne lekin it keeps making me want to see more. I hate how you keep it hidden from me.',
   'Tumhari dedication to face every issue head first, by yourself shows k tum kitni determined aur strong ho. I love it and hate it at the same time.',
   'Abhi to milay thay aur itni jaldi ek saal bhi guzar gaya. Waqt bohat jaldi guzar raha ha, kuch dair ko tham jaye aur tum mere pas ruk jao. I want this moment to last forever.',
-  'December 04',
-  'December 05',
+  'Calls pr tumhari awaz mai excitement, 3hr call ka yun mins mai khatam ho jana. Aur phir mai wohi call sara din soch k muskurata rahun, you have so much power over me.',
+  'Tumhare serious act k pechay ek shararat chupi ha. Usko itna na dabao k wo kahen kho jaye. I love that shararti side of you.',
   'Kese bataun k tumsa koi nahi. Jitna bhi daikhun dil bharta nahi. Aur daikhne ki talab hatti nahi. Lekin tum meri sunti bhi to nahi.',
   'December 07',
   'December 08',
@@ -49,26 +49,26 @@ let messagesArray = [
   'December 10',
   'Aj bhi jab tumhari notification daikhta hun to dil ki dharkan tez ho jati ha, khud ko roka nahi jata k message check karun aur jawab dun. Chahay kitna hi busy kiyu na hun.',
   'December 12',
-  'December 13',
+  'December 13 - I miss you is not just a text',
   'December 14',
   'December 15',
-  'Calls pr tumhari awaz mai excitement, 3hr call ka yun mins mai khatam ho jana. Aur phir mai wohi call sara din soch k muskurata rahun, you have so much power over me.',
+  '',
   'December 17',
   'December 18',
-  'December 19',
+  'December 19 - you are just saying that',
   'December 20',
   'December 21',
   'Aj bhi tumhari snap ki notification mujhy bechain kr deti ha. Dil mai ek umeed si hoti ha k selfie ho. Tumhe daikh k dil kahan bharta ha, jitni bar daikhun wohi excitement hoti ha jesi pehli bar daikh k hui thi.',
   'December 23',
   'December 24',
   'December 25',
-  'December 26',
+  'December 26 - why me',
   'December 27',
   'December 28',
   'Mere phone mai har chez mute pr ha except for your notification. I like seeing your name on my phone.',
   'December 30',
   'December 31',
-  'January 01 - New year',
+  'I move into 2026 with just one goal - make you smile as many times as I can. Take all your worries and burdens away from you and bring back the Alisha I have been missing for so long.',
 ];
   
 
@@ -95,6 +95,7 @@ function showMessage() {
     document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
   }
 }
+
 
 
 
