@@ -43,7 +43,7 @@ let messagesArray = [
   'Calls pr tumhari awaz mai excitement, 3hr call ka yun mins mai khatam ho jana. Aur phir mai wohi call sara din soch k muskurata rahun, you have so much power over me.',
   'Tumhare serious act k pechay ek shararat chupi ha. Usko itna na dabao k wo kahen kho jaye. I love that shararti side of you.',
   'Kese bataun k tumsa koi nahi. Jitna bhi daikhun dil bharta nahi. Aur daikhne ki talab hatti nahi. Lekin tum meri sunti bhi to nahi.',
-  'December 07',
+  'Mere phone mai har chez mute pr ha except for your notification. I like seeing your name on my phone.',
   'December 08',
   'December 09',
   'December 10',
@@ -65,10 +65,10 @@ let messagesArray = [
   'December 26 - why me',
   'December 27',
   'December 28',
-  'Mere phone mai har chez mute pr ha except for your notification. I like seeing your name on my phone.',
+  '',
   'December 30',
   'December 31',
-  'I move into 2026 with just one goal - make you smile as many times as I can. Take all your worries and burdens away from you and bring back the Alisha I have been missing for so long.',
+  '2026 ka bs ek hi goal ha k mai tumhe muskurate hue hi rakhun. Tumhare saray dukh, dard, pareshaniyan mita na sakun to kuch lamho k liye unko tumse thora dur krdun aur bs tumhe chehakta hua daikhun.',
 ];
   
 
@@ -95,6 +95,7 @@ function showMessage() {
     document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
   }
 }
+
 
 
 
