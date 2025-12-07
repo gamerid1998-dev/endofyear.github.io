@@ -44,7 +44,7 @@ let messagesArray = [
   'Tumhare serious act k pechay ek shararat chupi ha. Usko itna na dabao k wo kahen kho jaye. I love that shararti side of you.',
   'Kese bataun k tumsa koi nahi. Jitna bhi daikhun dil bharta nahi. Aur daikhne ki talab hatti nahi. Lekin tum meri sunti bhi to nahi.',
   'Mere phone mai har chez mute pr ha except for your notification. I like seeing your name on my phone.',
-  'December 08',
+  'I miss you bs ek text nahi, ye ek emotion ha. Aisi feeling jo subha uthne k sath sb se pehle ati ha, duniya ki har chez tumhari taraf point krti ha jese mere din ki book ka har chapter tumhare hi naam likha ho.',
   'December 09',
   'December 10',
   'Aj bhi jab tumhari notification daikhta hun to dil ki dharkan tez ho jati ha, khud ko roka nahi jata k message check karun aur jawab dun. Chahay kitna hi busy kiyu na hun.',
@@ -95,6 +95,7 @@ function showMessage() {
     document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
   }
 }
+
 
 
 
