@@ -45,7 +45,7 @@ let messagesArray = [
   'Kese bataun k tumsa koi nahi. Jitna bhi daikhun dil bharta nahi. Aur daikhne ki talab hatti nahi. Lekin tum meri sunti bhi to nahi.',
   'Mere phone mai har chez mute pr ha except for your notification. I like seeing your name on my phone.',
   'I miss you bs ek text nahi, ye ek emotion ha. Aisi feeling jo subha uthne k sath sb se pehle ati ha, duniya ki har chez tumhari taraf point krti ha jese mere din ki book ka har chapter tumhare hi naam likha ho.',
-  'If life is Biryani, you are my dahi, if life is Coke, you are my icecube.',
+  'If life is Biryani, you are my dahi. If life is Coke, you are my icecube.',
   'Jab tumhe daikhta hun to khud ko yaad dilana parta ha k saans bhi leni hoti ha.',
   'Aj bhi jab tumhari notification daikhta hun to dil ki dharkan tez ho jati ha, khud ko roka nahi jata k message check karun aur jawab dun. Chahay kitna hi busy kiyu na hun.',
   'Watching navigate uni, handling every situation and shitty people as best you can, tackling things head on by yourself. Watching you grow as a person makes me feel so proud.',
@@ -95,6 +95,7 @@ function showMessage() {
     document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
   }
 }
+
 
 
 
