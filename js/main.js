@@ -45,29 +45,29 @@ let messagesArray = [
   'Kese bataun k tumsa koi nahi. Jitna bhi daikhun dil bharta nahi. Aur daikhne ki talab hatti nahi. Lekin tum meri sunti bhi to nahi.',
   'Mere phone mai har chez mute pr ha except for your notification. I like seeing your name on my phone.',
   'I miss you bs ek text nahi, ye ek emotion ha. Aisi feeling jo subha uthne k sath sb se pehle ati ha, duniya ki har chez tumhari taraf point krti ha jese mere din ki book ka har chapter tumhare hi naam likha ho.',
-  'December 09',
-  'December 10',
+  'If life is Biryani, you are my dahi, if life is Coke, you are my icecube.',
+  'Jab tumhe daikhta hun to khud ko yaad dilana parta ha k saans bhi leni hoti ha.',
   'Aj bhi jab tumhari notification daikhta hun to dil ki dharkan tez ho jati ha, khud ko roka nahi jata k message check karun aur jawab dun. Chahay kitna hi busy kiyu na hun.',
-  'December 12',
-  'December 13 - I miss you is not just a text',
+  'Watching navigate uni, handling every situation and shitty people as best you can, tackling things head on by yourself. Watching you grow as a person makes me feel so proud.',
+  'If comfort was a face, it would look like you. If belonging was an address, it would lead straight to you. If warmth was a place, its echo would be your voice. If home was a person, it would be you.',
   'December 14',
-  'December 15',
-  '',
-  'December 17',
+  'Tumhara baat baat pr song lyrics quote krna and dumb me jisko aksar reference samajh nahi ata tha. Phir pagal ki tarha usko google kr k song ka sunna bs tumhari waja se.',
+  'December 16',
+  'December 17 - grocery list?',
   'December 18',
   'December 19 - you are just saying that',
-  'December 20',
+  'December 20 - number of reels for her.',
   'December 21',
   'Aj bhi tumhari snap ki notification mujhy bechain kr deti ha. Dil mai ek umeed si hoti ha k selfie ho. Tumhe daikh k dil kahan bharta ha, jitni bar daikhun wohi excitement hoti ha jesi pehli bar daikh k hui thi.',
   'December 23',
-  'December 24',
+  'December 24 - songs in my browser.',
   'December 25',
   'December 26 - why me',
   'December 27',
-  'December 28',
-  '',
-  'December 30',
-  'December 31',
+  'December 28 - sponge',
+  'December 29',
+  'Meri notes app kholun to 13 notes tumhare naam se shuru hote hain. Koi lambi tareef to koi lecture to koi aisi baat jo mujhse na kahi gai ho wahan likh deta hun.',
+  'December 31 - last day of 2025',
   '2026 ka bs ek hi goal ha k mai tumhe muskurate hue hi rakhun. Tumhare saray dukh, dard, pareshaniyan mita na sakun to kuch lamho k liye unko tumse thora dur krdun aur bs tumhe chehakta hua daikhun.',
 ];
   
@@ -95,6 +95,7 @@ function showMessage() {
     document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
   }
 }
+
 
 
 
