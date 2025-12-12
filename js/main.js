@@ -50,7 +50,7 @@ let messagesArray = [
   'Aj bhi jab tumhari notification daikhta hun to dil ki dharkan tez ho jati ha, khud ko roka nahi jata k message check karun aur jawab dun. Chahay kitna hi busy kiyu na hun.',
   'Watching navigate uni, handling every situation and shitty people as best you can, tackling things head on by yourself. Watching you grow as a person makes me feel so proud.',
   'If comfort was a face, it would look like you. If belonging was an address, it would lead straight to you. If warmth was a place, its echo would be your voice. If home was a person, it would be you.',
-  'December 14',
+  'You are more magical than Geet when you are yapping on our call.',
   'Tumhara baat baat pr song lyrics quote krna and dumb me jisko aksar reference samajh nahi ata tha. Phir pagal ki tarha usko google kr k song ka sunna bs tumhari waja se.',
   'December 16',
   'December 17 - grocery list?',
@@ -95,6 +95,7 @@ function showMessage() {
     document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
   }
 }
+
 
 
 
