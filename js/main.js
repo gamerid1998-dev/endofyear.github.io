@@ -54,7 +54,7 @@ let messagesArray = [
   'Tumhara baat baat pr song lyrics quote krna and dumb me jisko aksar reference samajh nahi ata tha. Phir pagal ki tarha usko google kr k song ka sunna bs tumhari waja se.',
   'Tumhare chehre ka til sitaray ki tarha chamakta ha. Tumhara chehra jese asman, jispr wo sitara hamesha meri nazar rok leta ha.',
   'Tumhara choti choti baaton pr excited hona itna asar rakhta ha k grocery shopping jesi mundane cheez jiska soch k mujhy neend any lagti thi, ab usi ka intezar rehta ha.',
-  'December 18',
+  'Meri notes app kholun to 13 notes tumhare naam se shuru hote hain. Koi lambi tareef to koi lecture to koi aisi baat jo mujhse na kahi gai ho wahan likh deta hun.',
   'December 19 - you are just saying that',
   'December 20 - number of reels for her.',
   'December 21',
@@ -66,7 +66,7 @@ let messagesArray = [
   'December 27',
   'December 28 - sponge',
   'December 29',
-  'Meri notes app kholun to 13 notes tumhare naam se shuru hote hain. Koi lambi tareef to koi lecture to koi aisi baat jo mujhse na kahi gai ho wahan likh deta hun.',
+  '',
   'December 31 - last day of 2025',
   '2026 ka bs ek hi goal ha k mai tumhe muskurate hue hi rakhun. Tumhare saray dukh, dard, pareshaniyan mita na sakun to kuch lamho k liye unko tumse thora dur krdun aur bs tumhe chehakta hua daikhun.',
 ];
@@ -95,6 +95,7 @@ function showMessage() {
     document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
   }
 }
+
 
 
 
