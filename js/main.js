@@ -57,7 +57,7 @@ let messagesArray = [
   'Meri notes app kholun to 13 notes tumhare naam se shuru hote hain. Koi lambi tareef to koi lecture to koi aisi baat jo mujhse na kahi gai ho wahan likh deta hun.',
   'Mere compliments pr "you are just saying that" bolti ho, kabhi khudko meri nazar se daikho phir tumhe andaza hoga k alfaz bhi kam par jatay hain lekin dil se tumhari tareef kam nahi hoti.',
   'I hate when you get insecure about your voice. Its the only thing I want to hear first thing I wake up and last thing before I fall asleep. Aur ek tum ho jo voice message tk nahi krti.',
-  'December 21',
+  '"I have been compared to many characters", but trust me after all these years of experiencing life, na tumsa koi tha, na koi milega kabhi. You are lightning captured in a bottle.',
   'Aj bhi tumhari snap ki notification mujhy bechain kr deti ha. Dil mai ek umeed si hoti ha k selfie ho. Tumhe daikh k dil kahan bharta ha, jitni bar daikhun wohi excitement hoti ha jesi pehli bar daikh k hui thi.',
   'December 23',
   'December 24 - songs in my browser.',
@@ -95,6 +95,7 @@ function showMessage() {
     document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
   }
 }
+
 
 
 
