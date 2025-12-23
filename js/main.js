@@ -15,12 +15,8 @@ particlesJS.load('particles-js', 'js/particles-config.json', function(){
 /*
   =============================================
 
-  TEST THIS YOURSELF BEFORE SHOWING IT TO THEM
+  TEST THIS
 
-  Also, you'll probably have to change some stuff
-  come November so remind me to help you out with
-  this in case your messages will last longer
-  than October.
 
   =============================================
 */
@@ -54,21 +50,21 @@ let messagesArray = [
   'Tumhara baat baat pr song lyrics quote krna and dumb me jisko aksar reference samajh nahi ata tha. Phir pagal ki tarha usko google kr k song ka sunna bs tumhari waja se.',
   'Tumhare chehre ka til sitaray ki tarha chamakta ha. Tumhara chehra jese asman, jispr wo sitara hamesha meri nazar rok leta ha.',
   'Tumhara choti choti baaton pr excited hona itna asar rakhta ha k grocery shopping jesi mundane cheez jiska soch k mujhy neend any lagti thi, ab usi ka intezar rehta ha.',
-  'Meri notes app kholun to 13 notes tumhare naam se shuru hote hain. Koi lambi tareef to koi lecture to koi aisi baat jo mujhse na kahi gai ho wahan likh deta hun.',
+  'Meri notes app kholun to 18 notes tumhare naam se shuru hote hain. Koi lambi tareef to koi lecture to koi aisi baat jo mujhse na kahi gai ho wahan likh deta hun.',
   'Mere compliments pr "you are just saying that" bolti ho, kabhi khudko meri nazar se daikho phir tumhe andaza hoga k alfaz bhi kam par jatay hain lekin dil se tumhari tareef kam nahi hoti.',
   'I hate when you get insecure about your voice. Its the only thing I want to hear first thing I wake up and last thing before I fall asleep. Aur ek tum ho jo voice message tk nahi krti.',
   '"I have been compared to many characters", but trust me after all these years of experiencing life, na tumsa koi tha, na koi milega kabhi. You are lightning captured in a bottle.',
   'Aj bhi tumhari snap ki notification mujhy bechain kr deti ha. Dil mai ek umeed si hoti ha k selfie ho. Tumhe daikh k dil kahan bharta ha, jitni bar daikhun wohi excitement hoti ha jesi pehli bar daikh k hui thi.',
   'Tumhari choti choti baatein yaad rakhna phir chahay wo tumhare bataye hue songs months baad bhi mere pc k browser mai open hon ya tumhari batai hui movies downloaded rakhi hon ya tumhari pasand, na pasand. Chow mein se le kr manchurian tk, sab yaad ha.',
-  'December 24 - songs in my browser.',
-  'December 25',
-  'December 26 - why me',
-  'December 27',
-  'December 28 - sponge',
-  'December 29',
-  '',
-  'December 31 - last day of 2025',
-  '2026 ka bs ek hi goal ha k mai tumhe muskurate hue hi rakhun. Tumhare saray dukh, dard, pareshaniyan mita na sakun to kuch lamho k liye unko tumse thora dur krdun aur bs tumhe chehakta hua daikhun.',
+  'Tumhari paheliyon mai baat krne ki aadat, aur un baaton ka mera pura din consume kr lena. You are my favourite mystery book and I keep going back to the same pages.',
+  'Tumhari aadat ha khud ko underestimate krne ki aur meri aadat hai tumhe uske baad lecture dene ki. Ab tum bhi maan chuki ho ke tumhe mere lectures achay lagte hain.',
+  'You keep thinking "why me?" aur mai hamesha adha adhura jawab deta hun. Its always you because in a world full of calm, I choose the chaos you bring into my life.',
+  'Tumhari tasweeren frame krwa kr deewar pr lagaun, unka collage bana k apni shirt pr print krwaun. Aur tum kehti ho "you are just saying that?" itni majaal tumhari!?',
+  'I have watch you stumble, get back up with even more determination to take the curveballs head on all alone (I hate the all alone part soo much). Phir bhi duniya ko jo rough shell dikhati ho, uske nechay tum sab se narm dil ho.',
+  'I have 74 reels saved on instagram that remind me of you, of us, in little ways. Unhe save karta hun k wo sirf reels nahi balkay wo lamhe hain jo sirf tum aur mujh se related hotay hain.',
+  '21 days. 150+ hours. Countless nights spent finishing this. Now that its so close to the end, there is this emptiness I cant shake off, like I am losing one of the ways I talk to you.',
+  '2025 kitni jaldi chala gaya. Sochna bhi mushkil ha k ye saal kaisa hota agar mai tumse na mila hota. Ab to ye bhi imagine krna namumkin lagta ha k aaj k baad koi din tumhare beghair guzre.',
+  'Samajh nahi aa raha k ye perfectly end kese karun. Abhi bhi kitna kuch kehne ko bacha ha but luckily we have en entire lifetime to go through that so, I will keep the last message short. You are important to me, more than I think you realize.',
 ];
   
 
@@ -92,9 +88,10 @@ function showMessage() {
       document.getElementById("message").classList.add("fadeInDown");
     }, 1000);
   } else {
-    document.getElementById("message").innerHTML = "You'll have to wait till November 21 to see the messages.";
+    document.getElementById("message").innerHTML = "Missing this, right?";
   }
 }
+
 
 
 
